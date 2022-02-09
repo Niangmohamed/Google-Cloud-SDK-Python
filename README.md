@@ -1,2 +1,3 @@
-# Google-Cloud-SDK-Python
-Build a Google Cloud SDK in Python
+# Google Cloud SDK in Python
+
+Build a Google Cloud SDK in Python.
